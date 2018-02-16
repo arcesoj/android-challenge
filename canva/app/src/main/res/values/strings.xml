@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Canva</string>
+    <string name="home_number_tiles">Number of tiles:</string>
+    <string name="home_select_from_gallery">Select an image from gallery</string>
+    <string name="home_tile_default">32</string>
+    <string name="home_menu_next">Next</string>
+    <string name="exception_message_no_connection">There is a connection problem</string>
+    <string name="exception_message_image_not_found">Image was not found</string>
+    <string name="exception_message_generic">There was an application error</string>
+    <string name="home_error_number_tiles">Number of tiles is empty</string>
+    <string name="home_error_uri_image">There is not an image chosen</string>
+</resources>
