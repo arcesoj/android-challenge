@@ -7,6 +7,7 @@ import android.graphics.Bitmap;
  * Created by josearce on 6/30/17.
  */
 interface HomeActivityView {
+
     void renderImage(Bitmap bitmap);
 
     void showError(String errorMessage);

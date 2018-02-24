@@ -1,3 +1,17 @@
+Android-Challenge
+------------
+
+![Alt Text](https://media.giphy.com/media/n5FbpfIE6YCvGBhDLL/giphy.gif)
+
+### How to install : 
+
+1. cd `server` folder 
+2. Run server:
+   1. run `npm install`
+   2. run `nodemon server.js`
+3. Update ip `app/build.gradle` file 
+4. Run Android Application
+
 Photo mosaic
 ------------
 
@@ -60,5 +74,3 @@ Your code should be testable (but writing tests isn't necessary), for example:
 
  * Use dependency injection (the design pattern, not a framework or library)
  * Separate presentation logic from business logic.
-
-Have fun!
